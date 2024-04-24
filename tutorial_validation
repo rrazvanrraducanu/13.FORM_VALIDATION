@@ -1,0 +1,2 @@
+create db users with table users(id, nume, prenume, telefon,email, gen, website,comentarii)
+
